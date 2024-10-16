@@ -21,7 +21,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-125&show_icons=true&locale=en" alt="s-125" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-125&" alt="s-125" /></p>
 
 <!---
 S-125/S-125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
